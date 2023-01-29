@@ -1,0 +1,16 @@
+.text{
+    background-color: rgb(164, 118, 207);
+    color: white;
+
+}
+.cadre{
+    border: 2px rgb(164, 118, 207) solid ;
+    width: 55%;
+    height: auto;
+    background-color: rgb(207, 196, 216);
+    position: absolute;
+    top:24%;
+    left:23%;
+    border-radius: 20px;
+
+}
